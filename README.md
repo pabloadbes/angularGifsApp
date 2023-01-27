@@ -1,7 +1,10 @@
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
-
+This project is part of the course "Angular: From zero to expert". 
+Instructor: Fernando Herrera. https://www.dev-talles.com
+        
+[Try it!](https://effervescent-elf-06a2e4.netlify.app//)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
